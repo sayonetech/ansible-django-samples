@@ -1,0 +1,10 @@
+---
+
+
+
+# Database settings.
+db_user: "renjith"
+db_name: "renjith"
+db_password: "asdf1234"
+
+
